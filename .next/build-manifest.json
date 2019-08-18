@@ -4,7 +4,7 @@
     "static/development/dll/dll_397dc449097af0b4e992.js.map"
   ],
   "pages": {
-    "/": [
+    "/ImageChangeOnScroll": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
@@ -13,10 +13,6 @@
       "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
